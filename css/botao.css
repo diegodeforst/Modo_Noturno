@@ -1,0 +1,21 @@
+.botao
+  {
+      background-color: black;
+      border:none;
+      color: white;
+      padding: 15px 30px; 
+      margin-right: 15px; 
+      font-size: 12px;
+      cursor: pointer; 
+      transition: 1s; 
+  }
+  
+  .botao:hover
+  {
+      background-color: white;
+      color: black;
+  }
+  .botao i
+  {
+      margin-right: 8px; 
+  }
